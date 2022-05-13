@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula velit. 
 
 # 📦 Installation 
 
-Use the package manager [pip](https://pypi.org/project/pip/) to install the packaging and virtual environment tool [pipenv] (https://pipenv.pypa.io/en/latest/).
+Use the package manager [pip](https://pypi.org/project/pip/) to install the packaging and virtual environment tool [pipenv](https://pipenv.pypa.io/en/latest/) .
 
 ```bash
 pipenv install
