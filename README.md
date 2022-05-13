@@ -20,3 +20,10 @@ pipenv install
 python setup.py
 
 ```
+
+# 🧪 Tests
+
+```bash
+python test_some_file.py
+
+```
